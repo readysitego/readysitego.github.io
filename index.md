@@ -2,4 +2,4 @@
 layout: home
 ---
 
-At SiteGo we celebrate the open source community and are commited to giving back.
+Product documentation for end users and developers. 
