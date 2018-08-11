@@ -27,7 +27,8 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: readysitego/siteGoTheme
 plugins:
   - jekyll-feed
 
