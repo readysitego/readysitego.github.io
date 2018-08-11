@@ -1,2 +1,2 @@
 # readysitego.github.io
-SiteGo developer pages and documentation
+Product documentation for end users and developers.
