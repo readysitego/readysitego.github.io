@@ -2,10 +2,10 @@ toc:
   - title: General
     subfolderitems:
       - page: Getting Started
-        url: /spgo/general/getting-started
+        url: /mailgo/general/getting-started
       - page: Version Support
-        url: /spgo/general/version-support
+        url: /mailgo/general/version-support
   - title: Outreach
     subfolderitems:
       - page: Working with CSV Files
-        url: /spgo/general/csv-files
+        url: /mailgo/general/csv-files

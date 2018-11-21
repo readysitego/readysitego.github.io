@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SiteGo Documentation
+title: Home
 ---
 
 Product documentation for end users and developers. 
