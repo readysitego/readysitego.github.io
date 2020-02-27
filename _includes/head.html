@@ -1,0 +1,21 @@
+<head>  
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.png" | relative_url }}"/>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  {%- seo -%}
+
+  <meta itemprop="thumbnailUrl" content="/images/sitego_logo_graph.png"/>
+  <link rel="image_src" href="/images/sitego_logo_graph.png" />
+  <meta itemprop="image" content="/images/sitego_logo_graph.png"/>
+  <meta name="twitter:title" content="SiteGo Documentation"/>
+  <meta name="twitter:image" content="/images/sitego_logo_graph.png"/>
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <script defer src="https://js.statickit.com/statickit.js"></script>
+</head>

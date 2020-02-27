@@ -1,0 +1,16 @@
+<div class="two-column-row">
+    <div class="image">
+        <img src="{{ include.img-url }}" alt="{{ include.img-alt }}" />
+    </div>
+    <div class="content">
+        <h3 class="bold">{{ include.header }}</h3>
+        <p class="paragraph-one">{{ include.para-1 }}</p>
+        <p class="paragraph-two">{{ include.para-2 }}</p>
+        {%- if include.link -%}
+        <div class="button-bar">
+            <a class="button medium center" href="{{ include.link }}">LEARN MORE</a>
+        </div>
+        {%- endif -%}
+    </div>
+    <div class="clear"></div>
+</div>

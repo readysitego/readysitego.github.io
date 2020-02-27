@@ -1,0 +1,7 @@
+# Rule 1
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sitego.co/sitemap.xml
+
+Sitemap: https://www.sitego.co/docs/sitemap.xml
